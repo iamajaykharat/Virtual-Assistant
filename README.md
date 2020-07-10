@@ -1,6 +1,7 @@
 # Virtual-Assistant
-A Virtual Assistant like system created using Python.
-This is a Python Project which behaves like an AI.
-It behaves somewhat like Google assistant,Siri,Cortana etc.
-You can add more functionalities to it.
+
+## A Virtual Assistant Made Using Python.
+
+It is a virtual assistant which is based on the basic defination of AI. It is basically a Python Project.
+It has many features and we can also add more functionalities to it.
 
